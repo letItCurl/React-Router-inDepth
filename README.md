@@ -4,8 +4,11 @@
 # Reacp
 
 ***React-Router***
+
 The key of spa's
+
 ***React-Portal***
+
 <p align="center">
     <img src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
 </p>
@@ -27,15 +30,21 @@ export default Modal
 ```
 
 Tt make a component that is volatile.
+
 ***React-Redux***
+
 <p align="center">
     <img src="https://static.javatpoint.com/tutorial/reactjs/images/react-redux-architecture.png">
 </p>
+
 It Makes a centralized data scructure
+
 ***React-Thunk***
+
 <p align="center">
     <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1584462571/Vue-Sprint/REACTREDUX_yuqodr.png">
 </p>
+
 It Makes a actions on the cross above
 
 Read the package json to recap the needed packages.
