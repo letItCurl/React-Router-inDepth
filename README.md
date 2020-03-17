@@ -1,7 +1,7 @@
 # React ninja skills
 >this is a in depth practice on special features of React-redux React-router React-Thunk React-Portal
 
-# Reacp
+# Reacap
 
 ***React-Router***
 
@@ -10,7 +10,7 @@ The key of spa's
 ***React-Portal***
 
 <p align="center">
-    <img src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
+    <img style="width: 500px;" src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
 </p>
 
 ```
