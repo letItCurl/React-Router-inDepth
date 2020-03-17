@@ -10,7 +10,7 @@ The key of spa's
 ***React-Portal***
 
 <p align="center">
-    <img style="width: 500px;" src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
+    <img style="width: 250px;" src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
 </p>
 
 ```
