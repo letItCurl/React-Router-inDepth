@@ -9,10 +9,6 @@ The key of spa's
 
 ***React-Portal***
 
-<p align="center">
-    <img style="width: 250px;" src="https://fr.screenja.com/static/img/thumbs/portal-1-normal-636.png">
-</p>
-
 ```
 import React from 'react'
 import ReactDOM from 'react-dom'
