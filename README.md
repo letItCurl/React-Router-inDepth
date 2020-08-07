@@ -42,5 +42,3 @@ It Makes a centralized data scructure
 </p>
 
 It Makes a actions on the cross above
-
-Read the package json to recap the needed packages.
